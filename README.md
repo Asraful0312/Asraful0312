@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Asraful Islam</h1>
-<p align="center"> I'm  an experienced web developer and designer specializing in front-end development. With 2years of experience and expertise in HTML, CSS, Tailwind CSS, JavaScript, React js and redux I create visually stunning, user-friendly websites. From responsive design to clean code and seamless functionality, I deliver exceptional results. Let's collaborate to bring your web projects to life and achieve your goals. Contact me now for professional web development and design services.
+<p align="center"> I'm  an experienced web developer and designer specializing in full-stack development. With 3years of experience and expertise in HTML, CSS, Tailwind CSS, JavaScript, Typescript, Node js, React js, Next js. I create visually stunning, user-friendly, and secure websites. From responsive design to clean code and seamless functionality, I deliver exceptional results. Let's collaborate to bring your web projects to life and achieve your goals. Contact me now for professional web development and design services.
 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asraful0312&label=Profile%20views&color=0e75b6&style=flat" alt="asraful0312" /> </p>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **golang**
 
 - 👨‍💻 All of my projects are available at [https://asraful-islam.vercel.app/](https://asraful-islam.vercel.app/)
 
-- 💬 Ask me about **reactjs, nextjs**
+- 💬 Ask me about **reactjs, nextjs, node js**
 
 - 📫 How to reach me **asrafulislamrayhan2@gmail.com**
 
